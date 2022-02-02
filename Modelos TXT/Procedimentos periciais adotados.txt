@@ -1,0 +1,24 @@
+O presente trabalho foi estruturado a partir de bases provenientes das normas contábeis disseminadas pelo Conselho Federal de Contabilidade (CFC), das práticas contábeis, dos conceitos da matemática financeira atinentes e do atendimento às normas relativas à elaboração e apresentação de documentos técnicos consignados pela Associação Brasileira de Normas Técnicas (ABNT). Desse modo, a condução dos trabalhos foi marcada pela estrita observância das diretrizes contidas na Normas Brasileiras de Contabilidade Técnicas e Profissionais de Perícia Contábil \textbf{(NBC TP 01 (R1)}, aprovada em 19/03/2020 e a \textbf{NBC PP 01 (R1)}, aprovada em mesma data) e do Novo Código de Processo Civil (Lei n° 13.105, de 16/03/2015), o qual versa, em seu art.473P1F1,
+sobre os requisitos legais e aspectos formais pertinentes à produção de um documento pericial.
+A prática de tais expedientes se deve, em suma, porque as Normas Brasileiras de Contabilidade oferecem metodologia de trabalho capaz de permitir a este signatário emitir opinião técnica sobre temas de sua especialidade à luz de seu conteúdo fático e por necessidade de atendimento ao disposto no art. 473 retro. Nos termos das normas vigentes, a \textbf{Perícia Contábil} \underline{Constitui um conjunto de procedimentos técnico-científicos destinados a apresentar evidências capazes de opinar e subsidiar a justa solução de litígios os ou \textbf{constatação} de fatos mediante laudo pericial contábil e/ou parecer técnico-contábil}, sendo uma competência exclusiva do Contador. A confecção da prova deferida observou os procedimentos periciais aplicáveis à lide, o que inclui o \underline{Planejamento dos Trabalhos} com a \underline{Definição de seus Objetivos}, o \underline{Desenvolvimento das Etapas} necessárias à sua \underline{Conclusão}, com apoio de equipe técnica capacitada. As opções técnicas e os conceitos observados nas posições e conclusões apresentadas correspondem à opinião sob a ótica exclusivamente contábil deste \textbf{Perito} aplicável à situação fática constatada, tendo em vista os documentos apresentados e nos limites daquilo que se avaliou. Para a realização deste trabalho pericial, foram analisados e verificados os elementos juntados aos autos e/ou fornecidos pelas Partes.
+
+%TODO Indentar nota de rodapé
+\footnote{
+1 Art. 473. O laudo pericial deverá conter:
+I - a exposição do objeto da perícia;
+II - a análise técnica ou científica realizada pelo perito;
+III - a indicação do método utilizado, esclarecendo-o e demonstrando ser predominantemente aceito pelos especialistas da área do conhecimento da qual se originou;
+IV - resposta conclusiva a todos os quesitos apresentados pelo juiz, pelas partes e pelo órgão do Ministério Público.
+§ 1º No laudo, o perito deve apresentar sua fundamentação em linguagem simples e com coerência lógica, indicando como alcançou suas conclusões.
+§ 2º É vedado ao perito ultrapassar os limites de sua designação, bem como emitir opiniões pessoais que excedam o exame técnico ou científico do objeto da perícia.
+§ 3º Para o desempenho de sua função, o perito e os assistentes técnicos podem valer-se de todos os meios necessários, ouvindo testemunhas, obtendo informações, solicitando documentos que estejam em poder da parte, de terceiros ou em repartições públicas, bem como instruir o laudo com planilhas, mapas, plantas, desenhos, fotografias ou outros elementos necessários ao esclarecimento do objeto da perícia.
+}
+
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
