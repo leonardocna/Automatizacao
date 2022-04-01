@@ -1,0 +1,120 @@
+\documentclass[a4paper]{article} % TIPO DO DOCUMENTO
+\usepackage[brazil]{babel} % Datas e nomes em Português com estilo Brasileiro
+\usepackage[utf8]{inputenc} % Permite acentos
+\usepackage{color} % Permite o uso de cores
+\usepackage{graphicx} % permite o uso de figuras
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\usepackage{xcolor}  -- REMOVER
+\usepackage{ulem}
+\usepackage[pdftex]{hyperref}
+\usepackage{wrapfig}
+\usepackage{rotating}
+%\usepackage{showframe}
+\usepackage{marginnote}
+\usepackage{caption}
+\usepackage{xparse}
+\usepackage{l3keys2e}
+\usepackage{changepage}
+\usepackage{scrextend}
+\usepackage[marginparwidth=85pt]{geometry}
+%\geometry{lmartin=3cm, tmartgin=3cm, rmargin=2,5cm,bmargin=1,75cm}
+\usepackage[titletoc]{appendix}
+\renewcommand{\appendixname}{Apêndice}
+\renewcommand{\appendixtocname}{Apêndice}
+%\renewcommand*\cftappendixname{\appendixname\enspace} %permite usar apêndices
+\usepackage{makeidx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{indentfirst}
+\input{dados-laudo}
+%\usepackage[lmartin=3cm, tmartgin=3cm, rmargin=2,5cm,bmargin=1,75cm]{geometry}
+%\usepackage{makeidx}
+\usepackage{tabularx} %outro modo de fazer tabelas
+\usepackage{array}
+\setlength{\parindent}{4em} % Tamanho do parágrafo
+\setlength{\parskip}{1.5em} % Espaço entre as linhas
+\renewcommand{\baselinestretch}{1.5} % Espaço entre as linhas de um mesmo paragrafo
+%\pagestyle{fancy}
+\fontfamily{Arial narrow}
+\fancyhf{} % limpa as configurações de rodapé e cabeçalho
+\usepackage{lastpage} % permite usar a ultima pagina como referencia no rodapé
+\usepackage{multicol}
+%%
+%% Cabeçalho
+\lhead
+{\begin{picture}(0,0)
+\put(100,15) % Coordenadas do cabeçalho na página
+{\includegraphics[scale=1]{Imagens/cabecalho.png}}
+\end{picture}}
+
+\lfoot{
+\begin{tabular}{l|r}
+    Av. Regente Ferjó, 944 - Conj.1604-A & 
+    \begin{picture}(0,0)
+    %\put(100,0)
+    \includegraphics[scale=0.05]{Imagens/WhatsApp_Logo_sem fundo.png}
+    \end{picture}(11) 9-3724-8706\\
+    Anália Franco CEP: 03.342-000 - São Paulo/SP & lfpa@ifpa.com.br
+     & 
+\end{tabular}}
+
+
+
+\rfoot{ 
+
+\thepage \hspace{1pt} - \pageref{LastPage}
+}
+
+
+
+\begin{document}
+
+
+\input{Modelos-Capa/Capa.tex} 
+\tableofcontents
+\listoffigures
+\listoftables
+\newpage
+
+\section{Considerações Preliminares}
+\input{1 - Considerações Preliminares/1.1 - Modelos-Resumo-da-Lide/Resumo da LIDE.txt}
+
+\newpage
+\input{1 - Considerações Preliminares/1.2 - Deferimento, objeto e objetivo de Perícia/Deferimento, objetivo e objetivo da Perícia.txt}
+
+\newpage
+\input{1 - Considerações Preliminares/1.3 - Modelos Procedimentos Periciais Adotados/Procedimentos periciais adotados.txt}
+
+\newpage
+\input{1 - Considerações Preliminares/1.4 - Modelos Cumprimento do Termo de Solicitação de Elementos/1.4 - Cumprimento do Termo de Solicitação de Elementos.txt}
+
+\input{1 - Considerações Preliminares/1.4 - Modelos Cumprimento do Termo de Solicitação de Elementos/1.4.1 - Acerca do não atendimento do Termo de Solicitação de Elementos.txt}
+
+\input{1 - Considerações Preliminares/1.4 - Modelos Cumprimento do Termo de Solicitação de Elementos/1.4.2 - Da análise dos documentos juntados aos autos do processo.txt}
+
+\newpage
+\input{2 - Aspectos técnicos e balizas teóricas/2.1 - Declaração de Inconstitucionalidade/Declaração de Inconstitucionalidade}
+
+\newpage
+\input{3 - Constatações e Analises Periciais/3.1 - Do valor exigido}
+
+\newpage
+\input{3 - Constatações e Analises Periciais/3.2 - Da constituição das atualizações e juros do principal e multa punitiva}
+
+\newpage
+\input{3 - Constatações e Analises Periciais/3.3 - Das Taxas de Juros e Correção Aplicadas em cotejo com a Taxa SELIC}
+
+\newpage
+\input{4 - Considerações Finais/Considerações Finais}
+
+\newpage
+\input{5 - Encerramento/5 - Encerramento}
+
+\newpage
+\appendix
+\addappheadtotoc % Adiciona o Título Apêndice
+\input{Apêndice A: Respostas aos Quesitos da Requerente/A - Quesitos formulados pela Requerente}
+\input{Apêndice B: Respostas aos Quesitos da Requerida/B - Quesitos formulados pela Requerida}
+
+\printindex
+\end{document}

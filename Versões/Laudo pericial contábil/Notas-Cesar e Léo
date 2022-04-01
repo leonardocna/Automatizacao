@@ -1,0 +1,31 @@
+Revisei até o tópico 3 3.	Constatações e Análises Periciais
+
+Criação de links: 
+%\hypertarget{nome do link para buscar}{trecho que será "linkado"}
+%hyperlink{nome do hypertarget criado}{texto que terá o link}
+
+Notas lateral
+\marginnote{
+\begin{turn}{90}
+\begin{minipage}{\paperheight}
+\scriptsize
+\flushleft
+Este documento é cópia do original, assinado digitalmente por LEONEL CARLOS DIAS FERREIRA e Tribunal de Justica do Estado de Sao Paulo, protocolado em
+06/01/2022 às 20:16 , sob o número WFPA22700030621 nº 1 SP 305.622/O-5 |
+CNPC/CFC nº 4.188 | CNAI/CFC nº 7.758 
+Para conferir o original, acesse o site
+https://esaj.tjsp.jus.br/pastadigital/pg/abrirConferenciaDocumento.do, informe o processo 1005733-67.2020.8.26.0053 e código C2A6D13.
+\end{minipage}
+\end{turn}
+}[-4.5cm]
+
+
+
+TODO 
+- Mudanças:
+	- Fonte Arial narrow - Não achei esta fonte no Latex
+	- A capa pode ser colocada em uma tabela - ok
+	- Atentar as cores usadas no rodapé
+	- O Latex consegue buscar informação no excel
+	- Tentar colocar cores nas Tabelas
+	- Linha na lateral da folha a Esquerda

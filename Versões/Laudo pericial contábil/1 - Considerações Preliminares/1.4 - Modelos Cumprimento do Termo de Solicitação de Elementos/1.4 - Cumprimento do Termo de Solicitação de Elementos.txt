@@ -1,0 +1,28 @@
+\subsection{Cumprimento do Termo de Solicitação de Elementos}
+
+Conforme fl. 112, a Perícia apresentou termo de solicitação de elementos em 20/08/2020, no intuito de obter subsídios para responder aos quesitos apresentados, a seguir apresenta-se a lista dos itens solicitados e a indicação do atendimento ou não dos mesmos:
+% Importante usar o \\ para não usar o paragrafo no começo da tabela
+% Rezizebox redimenciona o objeto no primeiro {Tamanho}{quando isto deve ser aplicado} {O que sera redimencionado}
+
+\caption{\textbf{Quadro 1:} Aferição quanto ao cumprimento do Termo de Solicitação de Elementos}
+\newline
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{|p{1cm}|p{10cm}|c|c|c|c|}
+        \hline
+        Item & Descrição & Parte  & Data Solicitada & Folhas do Processo \ ID & Atendido \\ \hline
+        i &	Disponibilização dos .TXTs e/ou .XMLs de todas as NF-e emitidas e recebidas relativas às operações citadas no AIIM de nº 4.037.656-4, providenciando a relação das respectivas chaves de acesso/códigos de verificação;	& Requerente & 20/08/2020 &	Fls. 112
+        Fls. 171 &	Não \\ \hline
+        ii & Cópia integral da Certidão de Dívida Ativa (CDA) mencionada na lide; & Requerente & 20/08/2020 & Fls. 112 Fls. 171 & Sim \\ \hline
+        iii & Quaisquer outros dados, documentos ou informações necessárias ao completo esclarecimento das questões objeto da lide; e &	Requerente &	20/08/2020 &	Fls. 112  Fls. 171 &	Sim \\ \hline
+        iv & Nome e endereço eletrônico de e-mail do responsável pelos elementos solicitados supra, a quem este Perito irá dirigir este Termo. & Requerente & 20/08/2020 & Fls. 112
+        Fls. 171	& Sim \\ \hline
+        V & Cópia integral com todas as folhas que compõem o processo de ação fiscal que culminou na lavratura do auto de infração relacionado à lide; & Requerente & 20/08/2020 & Fls. 112
+        Fls. 171 & Sim \\ \hline
+        Vi & Nome e endereço eletrônico de e-mail do responsável pelos elementos solicitados supra, a quem este Perito irá dirigir este Termo. & Requerente & 20/08/2020 & Fls. 112 & Sim \\ \hline
+        vii & Quaisquer dados, documentos ou informações necessárias ao completo esclarecimento das questões objeto da lide, tendo em vista o(s) ponto(s) controverso(s) eventualmente estabelecido(s) pelo Juízo e os próprios quesitos formulados e/ou questões que queiram ver respondidas, inclusive sua minuta de respostas e/ou apresentação de parecer-técnico; e & Requerente & 20/08/2020 & Fls. 171 & Sim \\ \hline
+        viii & Quaisquer dados, documentos ou informações necessárias ao completo esclarecimento das questões objeto da lide, tendo em vista o(s) ponto(s) controverso(s) eventualmente estabelecido(s) pelo Juízo e os próprios quesitos formulados e/ou questões que queiram ver respondidas, inclusive sua minuta de respostas e/ou apresentação de parecer-técnico; e & Requerida & 20/08/2020 & Fls. 171 & Parcialmente \\ \hline
+        ix & Nome e endereço eletrônico de e-mail do responsável pelos elementos solicitados supra, a quem este Perito irá dirigir este Termo.& Requerida & 20/08/2020 & Fls. 171 & Sim \\ \hline
+    \end{tabular}}
+
+
+A \textbf{Perícia} relata que as partes foram solicitas a disponibilização de elementos para o transcorrer da prova pericial deferida pelo Juízo, conforme é possível depreender da tabela acima, de posse dos subsídios disponibilizados, passasse a concatenação das conclusões técnicas pertinentes a dissolução dos pontos controvertidos postos aos autos.\\ \\

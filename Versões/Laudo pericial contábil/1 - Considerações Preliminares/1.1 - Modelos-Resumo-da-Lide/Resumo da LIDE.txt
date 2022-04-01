@@ -1,0 +1,5 @@
+\subsection{Resumo da LIDE}
+
+Conforme depreende-se da leitura dos autos do processo em epígrafe, trata-se de \classe ajuizada com Pedido de Antecipação dos Efeitos da Tutela ajuizada por \textbf{\autornome} (\shortrequerente ou Requerente) em face de \textbf{\reunome} (\shortrequerida ou Requerida), distribuídos sob o número \processo, para cuja síntese dos fatos a seguir se apresenta, extraída da inicial e das demais peças do processo.\par
+
+\input{1 - Considerações Preliminares/1.1 - Modelos-Resumo-da-Lide/Resumo-da-lide-Digitado.txt} 
